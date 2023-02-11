@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nazrul171299
 - 👀 I’m interested in Cyber Security
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python, djnago, flask, html,css
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
